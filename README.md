@@ -1,10 +1,15 @@
-# Mini_Projects_Inventory
-Links to mini projects on data science topics like data wrangling, EDA, ML and data story telling.
+# Mini Projects Inventory
+Links to mini projects on data science topics like data wrangling, EDA, ML and data storytelling (On going)
+***
+## Table of Contents 
 
-*1. EDA examining human body temperature https://github.com/chocolocked/EDA_Projects
+### 1. Data Wrangling
+* Data munging on the World Bank projects json file <https://github.com/chocolocked/DataWrangling_JsonMiniProject>
+* Investigating the Drop in User Engagements using SQL <https://modeanalytics.com/chocolocked/reports/04cfdba20eac>
 
-*2. EDA examining the impact of race in resume call-back rate https://github.com/chocolocked/EDA_RacialDiscri
+### 2. Exploratory Data Analysis (EDA)
+* EDA examining human body temperature <https://github.com/chocolocked/EDA_Projects>
 
-*3. EDA examining hospital readmission data and corresponding recommendations for readmission rate reduction https://github.com/chocolocked/EDA_HospitalReadm-
+* EDA examining the impact of race in resume call-back rate <https://github.com/chocolocked/EDA_RacialDiscri>
 
-
+* EDA examining hospital readmission data and making recommendations for readmission rate reduction <https://github.com/chocolocked/EDA_HospitalReadm->
