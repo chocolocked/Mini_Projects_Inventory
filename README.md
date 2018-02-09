@@ -1,5 +1,5 @@
 # Mini Projects Inventory
-Links to mini projects on data science topics like data wrangling, EDA, ML and data storytelling (On going)
+Links to mini projects on data science topics like data wrangling, EDA, ML and data storytelling (Ongoing)
 ***
 ## Table of Contents 
 
