@@ -8,8 +8,6 @@ Links to mini projects on data science topics like data wrangling, EDA, ML and d
 * Investigating the Drop in User Engagements using SQL <https://modeanalytics.com/chocolocked/reports/04cfdba20eac>
 
 ### 2. Exploratory Data Analysis (EDA)
-* EDA examining human body temperature <https://github.com/chocolocked/EDA_Projects>
-
+* EDA examining normal range of human body temperature <https://github.com/chocolocked/EDA_Projects>
 * EDA examining the impact of race in resume call-back rate <https://github.com/chocolocked/EDA_RacialDiscri>
-
-* EDA examining hospital readmission data and making recommendations for readmission rate reduction <https://github.com/chocolocked/EDA_HospitalReadm->
+* EDA examining hospital readmission data and making recommendations for reduction <https://github.com/chocolocked/EDA_HospitalReadm->
