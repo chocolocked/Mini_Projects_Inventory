@@ -11,3 +11,7 @@ Links to mini projects on data science topics like data wrangling, EDA, ML and d
 * EDA examining normal range of human body temperature <https://github.com/chocolocked/EDA_Projects>
 * EDA examining the impact of race in resume call-back rate <https://github.com/chocolocked/EDA_RacialDiscri>
 * EDA examining hospital readmission data and making recommendations for reduction <https://github.com/chocolocked/EDA_HospitalReadm->
+
+### 3. Machine Learning (ML) 
+* Linear Regression on Boston Housing Data set <https://github.com/chocolocked/LinearReg_Boston>
+* Logistic Regression on Weight vs. Height with Hyperparameter Tuning <https://github.com/chocolocked/ML_LogisticReg>
