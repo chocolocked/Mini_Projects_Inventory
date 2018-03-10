@@ -16,3 +16,4 @@ Links to mini projects on data science topics like data wrangling, EDA, ML and d
 * Linear Regression on Boston Housing Data set <https://github.com/chocolocked/LinearReg_Boston>
 * Logistic Regression on Weight vs. Height with Hyperparameter Tuning <https://github.com/chocolocked/ML_LogisticReg>
 * Naive Bayes on predicting Rotten Tomatoes fresh movie reviews with GridSearch on hyperparamter <https://github.com/chocolocked/ML_NaiveBayes>
+* Wine Customer Segmentation using Clustering Methods and Visualization <https://github.com/chocolocked/ML_Clustering> 
