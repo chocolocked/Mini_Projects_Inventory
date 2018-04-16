@@ -18,3 +18,6 @@ Links to mini projects on data science topics like data wrangling, EDA, ML and d
 * Naive Bayes on predicting Rotten Tomatoes fresh movie reviews with GridSearch on hyperparamter <https://github.com/chocolocked/ML_NaiveBayes>
 * Wine Customer Segmentation using Clustering Methods and Visualization <https://github.com/chocolocked/ML_Clustering> 
 * RDD operations, Text analysis on Julius Caesar, Linear Regression & Random Forest on Boston Housing Dataset with PySpark <https://github.com/chocolocked/ML_PySpark>
+
+### 4. Data Challenge 
+* User adoption analysis, feature engineering, and predictive modeling <https://github.com/chocolocked/DataChallenge_relax>
