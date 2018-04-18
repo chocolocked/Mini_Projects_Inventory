@@ -16,7 +16,7 @@ Links to mini projects on data science topics like data wrangling, EDA, ML and d
 * Linear Regression on Boston Housing Dataset <https://github.com/chocolocked/LinearReg_Boston>
 * Logistic Regression on Weight vs. Height with Hyperparameter Tuning <https://github.com/chocolocked/ML_LogisticReg>
 * Naive Bayes on predicting Rotten Tomatoes fresh movie reviews with GridSearch on hyperparamter <https://github.com/chocolocked/ML_NaiveBayes>
-* Wine Customer Segmentation using Clustering Methods and Visualization <https://github.com/chocolocked/ML_Clustering> 
+* Wine Customer Segmentation using Clustering Methods: Kmeans, Silhouette Method; and Visualizations with PCA <https://github.com/chocolocked/ML_Clustering> 
 * RDD operations, Text analysis on Julius Caesar, Linear Regression & Random Forest on Boston Housing Dataset with PySpark <https://github.com/chocolocked/ML_PySpark>
 
 ### 4. Data Challenge 
