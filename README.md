@@ -21,7 +21,7 @@ Links to mini projects on data science topics like data wrangling, EDA, ML and d
 
 ### 4. Data Challenge 
 * User adoption analysis, feature engineering, and predictive modeling <https://github.com/chocolocked/DataChallenge_relax>
+* 1 Part 1. Time Series Analysis on user engegement trend; 
+* 2 Part 2. Experimental design and hypothesis testing; 
+* 3 Part 3. EDA, feature engineering, pipeline model buidling and recommendations with LIME(Local Interpretable Model-agnostic Explanations)on improving rider retention 
 * <https://github.com/chocolocked/DataChallenge_ultimate>
-*1 Part 1. Time Series Analysis on user engegement trend; 
-*2 Part 2. Experimental design and hypothesis testing; 
-*3 Part 3. EDA, feature engineering, pipeline model buidling and recommendations with LIME(Local Interpretable Model-agnostic Explanations)on improving rider retention 
