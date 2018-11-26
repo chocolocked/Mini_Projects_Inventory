@@ -4,8 +4,8 @@ Links to mini projects on data science topics like data wrangling, EDA, ML and d
 ## Table of Contents 
 
 ### 1. Data Wrangling
-* Data munging on the World Bank projects json file <https://github.com/chocolocked/DataWrangling_JsonMiniProject>
-* Investigating the Drop in User Engagements using SQL <https://modeanalytics.com/chocolocked/reports/04cfdba20eac>
+* Data munging on the World Bank projects (working with json) <https://github.com/chocolocked/DataWrangling_JsonMiniProject>
+* User Engagements study using SQL <https://modeanalytics.com/chocolocked/reports/04cfdba20eac>
 
 ### 2. Exploratory Data Analysis (EDA)
 * EDA examining normal range of human body temperature <https://github.com/chocolocked/EDA_HumanBodyTemp>
@@ -17,7 +17,7 @@ Links to mini projects on data science topics like data wrangling, EDA, ML and d
 * Logistic Regression on Weight vs. Height with Hyperparameter Tuning <https://github.com/chocolocked/ML_LogisticReg>
 * Naive Bayes on predicting Rotten Tomatoes fresh movie reviews with GridSearch on hyperparamter <https://github.com/chocolocked/ML_NaiveBayes>
 * Wine Customer Segmentation using Clustering Methods: Kmeans, Silhouette Method; and Visualizations with PCA <https://github.com/chocolocked/ML_Clustering> 
-* RDD operations, Text analysis on Julius Caesar, Linear Regression & Random Forest on Boston Housing Dataset with PySpark <https://github.com/chocolocked/ML_PySpark>
+* RDD operations, Text analysis on Julius Caesar, Linear Regression & Random Forest on Boston Housing Dataset with PySpark Machine Learning library<https://github.com/chocolocked/ML_PySpark>
 
 ### 4. Data Challenge 
 * User adoption analysis, feature engineering, and predictive modeling <https://github.com/chocolocked/DataChallenge_relax>
